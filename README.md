@@ -1,2 +1,2 @@
-# Web-Design-Studies
-Training Sessions, nothing special here.
+# Web-Design-Study
+Nothing that special here.
